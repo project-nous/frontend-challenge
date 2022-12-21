@@ -16,13 +16,13 @@ One way Nous gathers data about a household is via users connecting their bank a
 
 ## Exercise
 
-### 1
+### Task 1
 
 You will find a Figma file [here]().
 
 Your first task is to implement the design system components found [here]()
 
-### 2
+### Task 2
 
 #### Background
 
