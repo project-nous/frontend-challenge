@@ -18,9 +18,11 @@ One way Nous gathers data about a household is via users connecting their bank a
 
 ### Task 1
 
-You will find a Figma file [here]().
+You will find a Figma file [here](https://www.figma.com/file/z4u4boBGc4tZ5KMIgw01vZ/Nous-frontend-challenge?node-id=0%3A1&t=18kwC6fFt8pQTYQ0-0).
 
-Your first task is to implement the design system components found [here]()
+Your first task is to implement the design system components.
+
+Bonus points for your solution taking advantage of something like [Storybook](https://github.com/storybookjs/storybook) - but not required, just makes our lives easier to review.
 
 ### Task 2
 
@@ -64,7 +66,7 @@ In the case of the GraphQL API you are able to query `bank` through the `account
 
 #### Task
 
-Your task is to implement the page found [here]() using the components you created in **task 1**
+Your task is to implement the page found [here](https://www.figma.com/file/z4u4boBGc4tZ5KMIgw01vZ/Nous-frontend-challenge?node-id=6%3A2&t=18kwC6fFt8pQTYQ0-0) using the components you created in [Task 1](#task-1)
 
 You maybe choose either the REST API or the GraphQL API, whatever you feel more comfortable with. 
 
