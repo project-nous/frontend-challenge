@@ -68,8 +68,8 @@ In the case of the GraphQL API you are able to query `bank` through the `account
 
 Your task is to implement the page found [here](https://www.figma.com/file/z4u4boBGc4tZ5KMIgw01vZ/Nous-frontend-challenge?node-id=6%3A2&t=18kwC6fFt8pQTYQ0-0) using the components you created in [Task 1](#task-1)
 
-You maybe choose either the REST API or the GraphQL API, whatever you feel more comfortable with. 
+You may choose either the REST API or the GraphQL API, whatever you feel more comfortable with. 
 
 For transparency, here at Nous we use GraphQL.
 
-Note, both APIs introduce an intential random latency between 0 and 2000 milliseconds for every request - make sure your solution handles this gracefully but including your own design thinking of loading states, etc. 
+Note, both APIs introduce an intential random latency between 0 and 2000 milliseconds for every request - make sure your solution handles this gracefully by including your own design thinking of loading states, etc. 
