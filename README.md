@@ -57,6 +57,7 @@ and the schema of an **account** is
 id: number
 sortCode: string
 accountNumber: string
+active: boolean
 bankId: number
 ```
 
