@@ -76,8 +76,8 @@ You may choose either the REST API or the GraphQL API, whatever you feel more co
 Both APIs intentionally add a random time to the latency of every request of between 0 and 2000 milliseconds. Make sure your solution handles this gracefully by including your own design thinking; for example, loading states.
 
 #### What we're looking for
-- Ability to interpret designs with limited information
-- Use of design system from previous task
-- Responsive design
-- State feedback to user
-- Ability to connect frontend with API
+- Your ability to interpret designs with limited information
+- Use of the design system from previous task
+- A responsive design
+- State feedback to the user
+- Your ability to connect frontend with API
