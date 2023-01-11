@@ -1,6 +1,8 @@
 # Nous frontend coding challenge
 
-Hey 👋, congratulations on getting to coding challenge stage. This task resembles what we do here at Nous so it should give you a good idea of problems we are dealing with and how we work. 
+Hey 👋, congratulations on getting to coding challenge stage. 
+
+This task resembles what we do here at Nous so it should give you a good idea of problems we are dealing with and how we work. 
 
 In this task you will be given access to an API and a Figma file. Your task is to implement some of the design system components in the Figma file and to use them to display the data from the API.
 
@@ -66,4 +68,4 @@ Your task is to implement the page found [here](https://www.figma.com/file/z4u4b
 
 You may choose either the REST API or the GraphQL API, whatever you feel more comfortable with. For transparency, at Nous we use GraphQL.
 
-Both APIs intentionally add a random time to the latency of every request of between 0 and 2000 milliseconds. Make sure your solution handles this gracefully by including your own design, thinking of loading states.
+Both APIs intentionally add a random time to the latency of every request of between 0 and 2000 milliseconds. Make sure your solution handles this gracefully by including your own design thinking; for example, loading states.
